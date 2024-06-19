@@ -1,5 +1,5 @@
 # Weather App
-This Weather App is a simple and intuitive web application built using Flask, a lightweight WSGI web application framework for Python. 
+This Weather App is a simple and intuitive web application built using Flutter, a open-source software development kit.
 The app fetches current weather data from a weather API based on the user's location and displays it in a user-friendly format.
 
 # Features
